@@ -1,0 +1,42 @@
+{
+  "schema": "adaptive_relaxed_final_audit_v1",
+  "case_count": 4256,
+  "complete": true,
+  "profile_count": 19,
+  "reference_count": 38,
+  "methods": {
+    "product_raster_a": 2432,
+    "adaptive_raster_c": 1824
+  },
+  "available": {
+    "product_raster_a": 1728,
+    "adaptive_raster_c": 1824
+  },
+  "errors": [
+    {
+      "method": "product_raster_a",
+      "error": "ValueError: nipple is not confirmed on registered surface: surfel_coverage_gap",
+      "count": 704
+    }
+  ],
+  "controls": {
+    "fresh_A15_45_50": 912,
+    "frozen_A_exact_PN_pose_and_order": 1520,
+    "frozen_C_MAIN_exact_PN_and_order": 1216,
+    "fresh_C8": 608
+  },
+  "all_actual_path_pose_XYZ_and_lengths_verified": true,
+  "all_C_positiveZ_longitudinalX_frames_verified": true,
+  "all_C_supplements_zero": true,
+  "all_actual_hole_brackets_no_interpolation": true,
+  "all_19_strict_durable_before_after_input_snapshots_verified": true,
+  "all_case_JSON_NPZ_hashes_verified": true,
+  "old_3952_case_JSON_NPZ_hashes_unchanged": true,
+  "old_index_sha256": "1aaa5a5b24e4bb46a8ffc687b4877108fd84cb44786b183732707f1df8d70b8c",
+  "prior47_count": 47,
+  "non_deterministic_cases": [],
+  "total_fragments": 23774,
+  "total_scan_length_m": 4708.933552508912,
+  "historical_metadata_scope": "Frozen C3/5 planner diagnostics are the original supplemented-plan history; only current independent contact/holes describe retained MAIN-only geometry.",
+  "seconds": 41.216165915015154
+}

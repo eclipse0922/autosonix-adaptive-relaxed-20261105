@@ -1,0 +1,49 @@
+{
+  "source_static_html_sha256": "0c19fb1f63ec6d2f008277d56381a1d9ee1d759d2415502b89573e88e62ac3c7",
+  "figures": [
+    {
+      "profile": "medium_reference",
+      "image": "figures/adaptive-relaxed-20261105/medium_reference-none-on.svg",
+      "sha256": "8bdf9280c8483f531920d73cd6bc834cb0770a2996b389dbb189b8cd0cef3c52",
+      "caption": "medium_reference · none · R90 한쪽 breast · nipple ON; C δ8 α0.5; nearest: 표준 제품 A 30 mm / 0.879 m / C−A -0.078 m; shorter: 표준 제품 A 50 mm / 0.614 m / C−A 0.186 m; longer: 표준 제품 A 30 mm / 0.879 m / C−A -0.078 m; 실제 측정 A이며 같은 길이 실행으로 간주하지 않음",
+      "C_source_json_sha256": "0453ac9c138072d305375c2a8bb81ffd8712bb49ed2d4916f85a07b6d389e67f",
+      "A_source_json_sha256": "5698d4cefc032bd184b6500500b38ffabf95dc6148337e0663a35828aac52689",
+      "C_minus_A_length_m": -0.07840363283115004,
+      "point_decimation": false,
+      "scope": "exact copy of static published-build SVG; display-coordinate formatting only; original float64 arrays downloadable separately"
+    },
+    {
+      "profile": "large_sag",
+      "image": "figures/adaptive-relaxed-20261105/large_sag-none-on.svg",
+      "sha256": "7d991f2884e9bdb156e9ece5c448efadfa169f3230a1112ece99265561f51ca2",
+      "caption": "large_sag · none · R90 한쪽 breast · nipple ON; C δ8 α0.5; nearest: 표준 제품 A 35 mm / 1.091 m / C−A 0.081 m; shorter: 표준 제품 A 45 mm / 1.091 m / C−A 0.081 m; longer: 표준 제품 A 25 mm / 1.358 m / C−A -0.185 m; 실제 측정 A이며 같은 길이 실행으로 간주하지 않음",
+      "C_source_json_sha256": "76964d45a79d7ff9703b77c55b53fa7615a587ae18a5e111e8562d2e4de287e7",
+      "A_source_json_sha256": "fe138f908b315041e5a510aa251c98cd83263d886c4274f2d4973f43b0304385",
+      "C_minus_A_length_m": 0.08091553542830487,
+      "point_decimation": false,
+      "scope": "exact copy of static published-build SVG; display-coordinate formatting only; original float64 arrays downloadable separately"
+    },
+    {
+      "profile": "narrow_chest_large_sag",
+      "image": "figures/adaptive-relaxed-20261105/narrow_chest_large_sag-none-on.svg",
+      "sha256": "01c58e950d085a3b8a17a0a712b54af62274b58b87f99e9704e327d8b69cc8b2",
+      "caption": "narrow_chest_large_sag · none · R90 한쪽 breast · nipple ON; C δ8 α0.5; nearest: 표준 제품 A 30 mm / 1.033 m / C−A 0.053 m; shorter: 표준 제품 A 40 mm / 1.033 m / C−A 0.053 m; longer: 표준 제품 A 25 mm / 1.356 m / C−A -0.270 m; 실제 측정 A이며 같은 길이 실행으로 간주하지 않음",
+      "C_source_json_sha256": "497dac028b78e6b843630cf8c3a83e88b1dbf7903902772d2c3ebcd9100214d4",
+      "A_source_json_sha256": "4a746e03fb3107dc1e79f01f3d8293e645e3d53fc2d8c93e21bcb115c0277348",
+      "C_minus_A_length_m": 0.052793525304510425,
+      "point_decimation": false,
+      "scope": "exact copy of static published-build SVG; display-coordinate formatting only; original float64 arrays downloadable separately"
+    },
+    {
+      "profile": "asymmetric",
+      "image": "figures/adaptive-relaxed-20261105/asymmetric-none-on.svg",
+      "sha256": "2441b40b599669d6fb9c46ad7e1d5b00f05bcebc9da9709a2304f973d18ccf2a",
+      "caption": "asymmetric · none · R90 한쪽 breast · nipple ON; C δ8 α0.5; nearest: 표준 제품 A 30 mm / 0.834 m / C−A -0.085 m; shorter: 표준 제품 A 50 mm / 0.604 m / C−A 0.145 m; longer: 표준 제품 A 30 mm / 0.834 m / C−A -0.085 m; 실제 측정 A이며 같은 길이 실행으로 간주하지 않음",
+      "C_source_json_sha256": "8b026ab5d642834c2cf70c4e8644e8a69db95706535ed7e7c5dd92f3fe847447",
+      "A_source_json_sha256": "5149347d546af7bb3a9142d366318c42f5eb19ad72141471897939c9ea7ea5f7",
+      "C_minus_A_length_m": -0.08481685521919125,
+      "point_decimation": false,
+      "scope": "exact copy of static published-build SVG; display-coordinate formatting only; original float64 arrays downloadable separately"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "all_six_configs_camera_breast_114_measured_brackets": true,
+  "no_extrapolation": true,
+  "no_hole_count_interpolation": true,
+  "summaries": [
+    {
+      "alpha": 0.5,
+      "planning_delta_mm": 3,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 58.39206778122913,
+        "p95": 132.3847623020115,
+        "max": 223.29802687963496
+      }
+    },
+    {
+      "alpha": 0.5,
+      "planning_delta_mm": 5,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 69.18080253390751,
+        "p95": 135.94499942344024,
+        "max": 156.85543222298625
+      }
+    },
+    {
+      "alpha": 0.5,
+      "planning_delta_mm": 8,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 59.637367284651965,
+        "p95": 129.84145840537192,
+        "max": 152.59318463267823
+      }
+    },
+    {
+      "alpha": 1.0,
+      "planning_delta_mm": 3,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 56.991560695638825,
+        "p95": 192.4693900447136,
+        "max": 271.03817943708685
+      }
+    },
+    {
+      "alpha": 1.0,
+      "planning_delta_mm": 5,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 63.43705326739607,
+        "p95": 147.05011175278162,
+        "max": 190.49563563195915
+      }
+    },
+    {
+      "alpha": 1.0,
+      "planning_delta_mm": 8,
+      "camera_breast_cases": 114,
+      "source_counts": {
+        "canonical_product_A": 78,
+        "diagnostic_sampler_A_without_nipple_confirmation": 36
+      },
+      "budget_status_counts": {
+        "interpolated": 114
+      },
+      "actual_same_length_hole_matches": 0,
+      "nearest_actual_A_abs_length_delta_mm": {
+        "median": 62.622117236133306,
+        "p95": 146.6275580894048,
+        "max": 193.7523647194954
+      }
+    }
+  ],
+  "auxiliary_index_sha256": "aedbf49a3d13305d72f9f090d24b451b5ad68bb420d2c691fcc81d66946dcaec"
+}

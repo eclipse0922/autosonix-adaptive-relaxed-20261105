@@ -1,0 +1,18 @@
+{
+  "schema": "adaptive_sampler_diagnostic_final_audit_v1",
+  "case_count": 704,
+  "condition_count": 88,
+  "available_case_count": 704,
+  "errors": {},
+  "all_diagnostic_type_and_guard_disclosures_verified": true,
+  "canonical_4256_unchanged_index_sha256": "ed5d9633681b9708c64278df367208554cb2a51920a2cd73ec12e00433ed8cd4",
+  "all_88_conditions_canonical_A8_unavailable_verified": true,
+  "all_canonical_refusal_source_hashes_verified": true,
+  "all_reference_denominators_shared": true,
+  "all_actual_path_pose_XYZ_lengths_and_hashes_verified": true,
+  "all_input_before_after_and_runtime_hashes_verified": true,
+  "non_deterministic_cases": [],
+  "combined_measurement_index": "/home/sewon/.cache/raster-adaptive-relaxed-20261105/combined-measurement-index.json",
+  "combined_measurement_index_sha256": "5aee26f6bb77891c5f73fb4055005cd4fdd12511c02c78b3ec3cac2299a4dbbf",
+  "seconds": 4.313639872998465
+}
