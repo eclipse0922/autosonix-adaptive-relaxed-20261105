@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "required_comparison_fields_present_all304": true,
+  "all_repeats_deterministic": true,
+  "all_outputs_available": true,
+  "supplement_count": 0,
+  "delivered_line_count_increases": 0,
+  "runtime_sources_unchanged": true,
+  "runtime_runner_copy": "/home/sewon/.cache/raster-adaptive-edge-20261105/full/verify_adaptive_edge.runtime-used.py",
+  "runtime_runner_sha256": "18897bc955af262eed7c3cfef57d4673db0465823bbace4d55d59ab4f4d1e001",
+  "matrix_wall_seconds": 566.0053148720181,
+  "breast": {
+    "count": 114,
+    "holes20": 37,
+    "holes10": 157,
+    "gain_median_pp": 8.217611893783062,
+    "gain_min_pp": 1.2416869243596085,
+    "negative": 0,
+    "maxhole_mm": 34.942521026332045
+  },
+  "both_chest_40mm": {
+    "count": 114,
+    "holes20": 23,
+    "holes10": 185,
+    "gain_median_pp": 7.495770699709653,
+    "gain_min_pp": 1.8657444601703377,
+    "negative": 0,
+    "maxhole_mm": 39.26110432154284
+  }
+}

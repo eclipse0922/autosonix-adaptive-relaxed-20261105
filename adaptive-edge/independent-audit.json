@@ -1,0 +1,17 @@
+{
+  "cases": 304,
+  "profiles": 19,
+  "all_outputs_available": true,
+  "all_three_repeats_deterministic": true,
+  "line_count_increase_cases": 0,
+  "fragment_count_increase_cases": 2,
+  "all_central_PN_byte_identical": 304,
+  "max_probe_frame_component_error": 8.881784197001252e-16,
+  "actual_waypoint_count": 186171,
+  "all_source_input_and_frozen_archives_unchanged": true,
+  "all_actual_XYZ_pose_aligned": true,
+  "all_HOME_X_straight": true,
+  "all_reference_digests_identical": true,
+  "all_evaluation_contact_coverage_monotonic": true,
+  "all_preview_flags": true
+}

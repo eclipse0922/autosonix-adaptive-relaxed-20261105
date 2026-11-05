@@ -1,0 +1,1028 @@
+[
+  {
+    "profile": "deep_torso_small",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": -3.538002837840104,
+    "holes_before": 2,
+    "holes_after": 2,
+    "maxhole_mm": 34.942521026332045
+  },
+  {
+    "profile": "deep_torso_small",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": -3.534685145331218,
+    "holes_before": 2,
+    "holes_after": 2,
+    "maxhole_mm": 34.942521026332045
+  },
+  {
+    "profile": "deep_torso_small",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": -3.419600521400046,
+    "holes_before": 2,
+    "holes_after": 2,
+    "maxhole_mm": 34.942521026332045
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": -2.12750593458626,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": -2.127118080477719,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": -1.7995084033361919,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "deep_torso_small",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": -1.7496792351603951,
+    "holes_before": 0,
+    "holes_after": 1,
+    "maxhole_mm": 26.44436683082757
+  },
+  {
+    "profile": "deep_torso_small",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": -1.726728484603024,
+    "holes_before": 0,
+    "holes_after": 1,
+    "maxhole_mm": 26.34635007511893
+  },
+  {
+    "profile": "deep_torso_small",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": -1.663589026806811,
+    "holes_before": 0,
+    "holes_after": 1,
+    "maxhole_mm": 26.420544685498996
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": -1.4244354436280027,
+    "holes_before": 0,
+    "holes_after": 1,
+    "maxhole_mm": 21.266187847220273
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": -1.2912468312114123,
+    "holes_before": 1,
+    "holes_after": 2,
+    "maxhole_mm": 24.83716236479437
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": -1.2819585534785238,
+    "holes_before": 1,
+    "holes_after": 2,
+    "maxhole_mm": 24.18221239464785
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": -1.2240073493630321,
+    "holes_before": 1,
+    "holes_after": 2,
+    "maxhole_mm": 21.52085752176277
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": -1.0066875964852007,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.411447476142232
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": -0.9569704986208238,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.649442554806338
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": -0.956794867111177,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.647573409488508
+  },
+  {
+    "profile": "wide_set",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": -0.9350875358372868,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "wide_set",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": -0.9349599563706956,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "wide_set",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": -0.933412416109225,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": -0.5558519432245834,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.411447476142232
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": -0.4568928744065115,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.649442554806338
+  },
+  {
+    "profile": "large_sag_soft",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": -0.45680956640991033,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.647573409488508
+  },
+  {
+    "profile": "wide_set",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": -0.15030989687381258,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "wide_set",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": -0.11209093744057874,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "wide_set",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": -0.11190313942285313,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 9.14167554967809
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 0.012208871318664105,
+    "holes_before": 2,
+    "holes_after": 2,
+    "maxhole_mm": 20.328791339005946
+  },
+  {
+    "profile": "large_sag",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 0.2549372469324629,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.786786776706958
+  },
+  {
+    "profile": "large_sag",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 0.2551090053155347,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.786720850716112
+  },
+  {
+    "profile": "large_sag",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 0.295963255265308,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 12.680691218830532
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 0.33389269844019687,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.54883731013765
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.3345030727046283,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.54865098397662
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 0.3381705485265618,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.54883731013765
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 0.3385791252123127,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.54865098397662
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 0.3594509327184414,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.435933704994675
+  },
+  {
+    "profile": "narrow_chest_large_sag",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 0.37591130508194404,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.435933704994675
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 0.4597756133454478,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 17.43206861106271
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.5476787702383246,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 11.628634876472837
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 0.6192440853453385,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 7.698220313477757
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.6937689522398816,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 17.45340402616677
+  },
+  {
+    "profile": "large_sag",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 0.7290752562893577,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.786786776706958
+  },
+  {
+    "profile": "large_sag",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.7295836934973821,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.786720850716112
+  },
+  {
+    "profile": "large_sag",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 0.7360585880778148,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 12.680691218830532
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 0.7499940545515615,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 7.7133520032538625
+  },
+  {
+    "profile": "upper_full",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 0.8023076669190887,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.856599503508253
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.8197402431332601,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 7.7133520032538625
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 0.9771721707762082,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 19.43486909953641
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 1.0465239030111095,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 15.167116792137946
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 1.0627059526736704,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 17.079056780242794
+  },
+  {
+    "profile": "medial_cluster",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 1.0630742564291529,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 17.079056780242794
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 1.06358303550933,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 11.628603078603625
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 1.106963543279138,
+    "holes_before": 1,
+    "holes_after": 2,
+    "maxhole_mm": 22.14170818591469
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 1.1502129675572736,
+    "holes_before": 1,
+    "holes_after": 2,
+    "maxhole_mm": 20.799053076839826
+  },
+  {
+    "profile": "asymmetric",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 1.380199178959085,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 19.626875202526982
+  },
+  {
+    "profile": "upper_full",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 1.3899165522908485,
+    "holes_before": 0,
+    "holes_after": 1,
+    "maxhole_mm": 21.251147033311103
+  },
+  {
+    "profile": "asymmetric",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 1.4082543089239286,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 19.567429109130742
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 1.5043290263615394,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.73044832618819
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 1.9520866117081148,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.057765280452408
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 1.9523555025333983,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.057765280452408
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 1.9706398832261662,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 10.990623353560283
+  },
+  {
+    "profile": "asymmetric",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 2.286895501858799,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 15.562969684632916
+  },
+  {
+    "profile": "small_thin_chest",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 2.4925907600168884,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 13.25994698374669
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 2.5035814211758267,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 2.505439413746058,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 2.544501361163687,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 2.857003642103928,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 2.8588056393570427,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "low_set_lower_full",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 2.8636784779153657,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 20.502173923308757
+  },
+  {
+    "profile": "upper_full",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 2.9544931779628802,
+    "holes_before": 1,
+    "holes_after": 1,
+    "maxhole_mm": 21.266782089752372
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 3.602791479306766,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "medium_reference",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 3.6042128660847883,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.60297427838199
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 3.6144877199773218,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "medium_reference",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 3.6300743994194584,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.604221158356857
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 3.6389242674365607,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 17.17770334804207
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 3.639069197573841,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 11.628603078603625
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 3.6487247300276304,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 3.650001474524922,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 11.628634876472837
+  },
+  {
+    "profile": "medium_reference",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 3.6582442540812665,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "narrow_chest_large",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 3.712621548954198,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 10.990623353560283
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 3.7983106781643183,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 3.8142178137630434,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "nipple_flat",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 3.957965433320032,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "asymmetric",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 4.210092624476469,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 14.716741395048796
+  },
+  {
+    "profile": "asymmetric",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 4.215889925039818,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 14.716741395048796
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 4.263347044178689,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "medium_reference",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 4.273767252226335,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.445516388392235
+  },
+  {
+    "profile": "medium_reference",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 4.325890780673469,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.60297427838199
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 4.3290939287149,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 4.331051366300864,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "medium_reference",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 4.336989839689065,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.604221158356857
+  },
+  {
+    "profile": "asymmetric",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 4.354221753391341,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 12.83280897034371
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 4.407954306774831,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 4.407985177015683,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "medium_sag_soft",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 4.513758254955114,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.47271595733567
+  },
+  {
+    "profile": "high_set",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 4.668760313948517,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 15.732747441191343
+  },
+  {
+    "profile": "high_set",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 4.708640347775573,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 15.732747441191343
+  },
+  {
+    "profile": "high_set",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 4.827873551789008,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 15.416285246137992
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 4.889565271806296,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 4.951992574756881,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 8.572661876769832
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 4.95344925110296,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 8.648899674845605
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 4.957301963576377,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "low_set_sag_soft",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 4.964926083522336,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 8.65036751707471
+  },
+  {
+    "profile": "medium_sag_firm",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 4.965862857583758,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 13.15544271775866
+  },
+  {
+    "profile": "high_set",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 5.025589865082802,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 15.732747441191343
+  },
+  {
+    "profile": "high_set",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 5.027599905545421,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 15.732747441191343
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "severe",
+    "on": false,
+    "coverage_pp_change": 5.07590008211205,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.310205470376857
+  },
+  {
+    "profile": "high_set",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 5.086462327984043,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 15.416285246137992
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "realistic",
+    "on": false,
+    "coverage_pp_change": 5.1559045105297745,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 16.92835406690392
+  },
+  {
+    "profile": "pectoral_muscular",
+    "level": "none",
+    "on": false,
+    "coverage_pp_change": 5.1829401098141155,
+    "holes_before": 0,
+    "holes_after": 0,
+    "maxhole_mm": 17.8542364582915
+  },
+  {
+    "profile": "upper_full",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 5.533425786068246,
+    "holes_before": 2,
+    "holes_after": 1,
+    "maxhole_mm": 20.856599503508253
+  },
+  {
+    "profile": "upper_full",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 5.539440037900323,
+    "holes_before": 2,
+    "holes_after": 1,
+    "maxhole_mm": 21.251147033311103
+  },
+  {
+    "profile": "upper_full",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 5.54138284017408,
+    "holes_before": 2,
+    "holes_after": 1,
+    "maxhole_mm": 21.266782089752372
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "severe",
+    "on": true,
+    "coverage_pp_change": 5.8428479469675,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 17.17770334804207
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "realistic",
+    "on": true,
+    "coverage_pp_change": 6.2604092225431724,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 17.43206861106271
+  },
+  {
+    "profile": "nipple_protruding",
+    "level": "none",
+    "on": true,
+    "coverage_pp_change": 6.264507717112666,
+    "holes_before": 1,
+    "holes_after": 0,
+    "maxhole_mm": 17.45340402616677
+  }
+]
